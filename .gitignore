@@ -3,4 +3,4 @@
 *.o
 *.ppu
 *.compiled
-IO_Linker/
+lib/*
