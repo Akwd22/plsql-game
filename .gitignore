@@ -1,0 +1,6 @@
+*.exe
+*.txt
+*.o
+*.ppu
+*.compiled
+IO_Linker/
