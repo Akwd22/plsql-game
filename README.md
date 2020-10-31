@@ -1,7 +1,7 @@
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
-* [About the project](#about-the-project)
+* [About The Project](#about-the-project)
   * [Why?](#why)
   * [Built With](#built-with)
 * [Getting Started](#getting-started)
