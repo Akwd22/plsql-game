@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="6">
+      <Unit0>
+        <Filename Value="IO_Linker.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <TopLine Value="30"/>
+        <CursorPos X="20" Y="52"/>
+        <UsageCount Value="47"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="Event.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="30"/>
+        <CursorPos X="25" Y="11"/>
+        <UsageCount Value="47"/>
+        <Loaded Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="Input.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="4"/>
+        <CursorPos X="18" Y="24"/>
+        <UsageCount Value="47"/>
+        <Loaded Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="Output.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="42"/>
+        <CursorPos X="24" Y="28"/>
+        <UsageCount Value="47"/>
+        <Loaded Value="True"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="connection.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Connection"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="19"/>
+        <CursorPos X="32" Y="69"/>
+        <UsageCount Value="45"/>
+        <Loaded Value="True"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="..\..\test\gestionecran.pas"/>
+        <UnitName Value="GestionEcran"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="100"/>
+        <CursorPos X="26" Y="111"/>
+        <UsageCount Value="9"/>
+      </Unit5>
+    </Units>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="IO_Linker.lpr"/>
+        <Caret Line="25" Column="54"/>
+      </Position1>
+      <Position2>
+        <Filename Value="IO_Linker.lpr"/>
+        <Caret Line="24" Column="9"/>
+      </Position2>
+      <Position3>
+        <Filename Value="Event.pas"/>
+        <Caret Line="54" Column="5" TopLine="35"/>
+      </Position3>
+      <Position4>
+        <Filename Value="IO_Linker.lpr"/>
+        <Caret Line="18" Column="88"/>
+      </Position4>
+      <Position5>
+        <Filename Value="connection.pas"/>
+        <Caret Line="7" Column="29"/>
+      </Position5>
+      <Position6>
+        <Filename Value="connection.pas"/>
+        <Caret Line="19" Column="23" TopLine="3"/>
+      </Position6>
+      <Position7>
+        <Filename Value="Input.pas"/>
+        <Caret Line="23" Column="22" TopLine="6"/>
+      </Position7>
+      <Position8>
+        <Filename Value="connection.pas"/>
+        <Caret Line="19" Column="13"/>
+      </Position8>
+      <Position9>
+        <Filename Value="IO_Linker.lpr"/>
+        <Caret Line="29" Column="17"/>
+      </Position9>
+      <Position10>
+        <Filename Value="Event.pas"/>
+        <Caret Line="40" Column="17" TopLine="33"/>
+      </Position10>
+      <Position11>
+        <Filename Value="Output.pas"/>
+        <Caret Line="12" Column="13"/>
+      </Position11>
+      <Position12>
+        <Filename Value="Event.pas"/>
+        <Caret Line="31" Column="6" TopLine="21"/>
+      </Position12>
+      <Position13>
+        <Filename Value="IO_Linker.lpr"/>
+        <Caret Line="45" Column="23" TopLine="21"/>
+      </Position13>
+      <Position14>
+        <Filename Value="Output.pas"/>
+        <Caret Line="88" Column="18" TopLine="65"/>
+      </Position14>
+      <Position15>
+        <Filename Value="Output.pas"/>
+        <Caret Line="86" Column="59" TopLine="69"/>
+      </Position15>
+      <Position16>
+        <Filename Value="Output.pas"/>
+        <Caret Line="99" Column="39" TopLine="83"/>
+      </Position16>
+      <Position17>
+        <Filename Value="IO_Linker.lpr"/>
+        <Caret Line="3" Column="14"/>
+      </Position17>
+      <Position18>
+        <Filename Value="Output.pas"/>
+        <Caret Line="98" Column="31" TopLine="80"/>
+      </Position18>
+      <Position19>
+        <Filename Value="Output.pas"/>
+        <Caret Line="94" Column="20" TopLine="70"/>
+      </Position19>
+      <Position20>
+        <Filename Value="connection.pas"/>
+        <Caret Line="52" Column="8" TopLine="36"/>
+      </Position20>
+      <Position21>
+        <Filename Value="connection.pas"/>
+        <Caret Line="47" Column="36" TopLine="35"/>
+      </Position21>
+      <Position22>
+        <Filename Value="connection.pas"/>
+        <Caret Line="49" Column="27" TopLine="30"/>
+      </Position22>
+      <Position23>
+        <Filename Value="connection.pas"/>
+        <Caret Line="34" Column="32" TopLine="25"/>
+      </Position23>
+      <Position24>
+        <Filename Value="connection.pas"/>
+        <Caret Line="50" Column="28" TopLine="35"/>
+      </Position24>
+      <Position25>
+        <Filename Value="connection.pas"/>
+        <Caret Line="52" Column="13" TopLine="36"/>
+      </Position25>
+      <Position26>
+        <Filename Value="connection.pas"/>
+        <Caret Line="47" Column="25" TopLine="35"/>
+      </Position26>
+      <Position27>
+        <Filename Value="connection.pas"/>
+        <Caret Line="55" Column="18" TopLine="37"/>
+      </Position27>
+      <Position28>
+        <Filename Value="connection.pas"/>
+        <Caret Line="54" Column="8" TopLine="38"/>
+      </Position28>
+      <Position29>
+        <Filename Value="connection.pas"/>
+        <Caret Line="57" Column="42" TopLine="37"/>
+      </Position29>
+      <Position30>
+        <Filename Value="IO_Linker.lpr"/>
+        <Caret Line="37" Column="29" TopLine="21"/>
+      </Position30>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
