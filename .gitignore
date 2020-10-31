@@ -1,7 +1,10 @@
 *.exe
+.*dll
+.*bak
 *.txt
+.*bak
 *.o
 *.ppu
 *.compiled
-lib/*
-backup/*
+src/iolinker/lib/*
+src/iolinker/backup/*
