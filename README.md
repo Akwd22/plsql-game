@@ -55,15 +55,15 @@ A guide to know how to setup both the linker and the DBMS.
   * ~~This will create a dedicated user with necessary permissions for the game code; setup DDL; compile the game code~~
 
 ~~IO Linker:~~
-~~1. Open the project in Lazarus IDE~~
-~~2. In `Connection.pas`, set your connection infos~~
+1. ~~Open the project in Lazarus IDE~~
+2. ~~In `Connection.pas`, set your connection infos~~
 ```pascal
     con.hostname := '?';
     con.username := '?';
     con.password := '?';
     con.databasename := '?';
 ```
-~~3. Build the project~~
+3. ~~Build the project~~
 
 <!-- USAGE EXAMPLES -->
 ## Usage
