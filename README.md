@@ -4,9 +4,11 @@
 <br />
 <div align="center">
   <h3 align="center">A mini-game in PL/SQL</h3>
-  <!-- <p align="center">
+  <!--
+  <p align="center">
     <a href="#">View Demo</a>
-  </p> -->
+  </p>
+  -->
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -35,7 +37,7 @@ The linker is an independent program written in Pascal language. It sends inputs
 
 ### Why?
 
-This project is really useless but I like making improbable things, so it's just for the challenge! (and learning more about PL/SQL and Oracle Database).
+This project is really useless, but I like making improbable things, so it's just for the challenge! (and learning more about PL/SQL and Oracle Database).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -65,11 +67,11 @@ A guide to know how to setup both the linker and the database.
 ### Prerequisites
 
 - [Lazarus IDE](https://www.lazarus-ide.org/), to build the linker.
-- [Oracle DB 18c](https://docs.oracle.com/en/database/oracle/oracle-database/18/), to store the game code (I haven't tested other versions).
+- [Oracle DB 18c](https://docs.oracle.com/en/database/oracle/oracle-database/18/), to run the game logic (not sure about other versions).
 
 ### Installation
 
-**Note: currently, not all necessary source files are uploaded on the repository.**
+> **Note: currently, not all necessary source files are uploaded on the repository.**
 
 ~~Database-side:~~
 - ~~Import and execute each PL/SQL script in the right order:~~  
